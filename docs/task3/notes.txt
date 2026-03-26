@@ -1,1 +1,33 @@
-Task 3
+Actors: 
+- Student
+- Society Leader
+- Union Officer
+- USU Officer
+
+Use Cases: 
+
+Student:
+- Register account
+- Join society
+- Leave society
+- View events
+- Register for events
+- Recieve notifications
+
+Society Leader:
+- Create society
+- Manage members
+- Create events
+- Update events
+- Message members
+
+Union Officer:
+- Approve societies
+- Manage societies
+- Monitor events
+- Organise union events
+
+USU Officer:
+- Approve union membership
+- Manage unions
+- Create nationwide events
