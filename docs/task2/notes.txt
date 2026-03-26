@@ -1,1 +1,9 @@
-Task 2
+Security and Privacy
+
+This system must protect user data such as student details and union information.
+
+Requiremnts:
+- Users must log in securely using a username and passowrd.
+- Only authorised users can access certain data.
+- All personal data must be stored securely.
+- The system should prevent unauthorised access.
