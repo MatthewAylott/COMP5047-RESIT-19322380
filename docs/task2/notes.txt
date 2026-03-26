@@ -17,3 +17,23 @@ Requirements:
 - The system should support multiple users at the same time.
 - Event search results should be displayed quickly.
 - Notifications should be sent in real-time.
+
+Reliability 
+
+The system must work consistently without failures.
+
+Requirements:
+- The system should be available 24/7.
+- The system should recover quickly from failures.
+- Data should not be lost during system errors.
+- Backups should be performed regularly.
+
+Scalability
+
+The system must handle increasing numbers of users and data.
+
+Requirements:
+- The system should support a growing number of users.
+- The system should handle large amounts of event data.
+- The system should maintain performance under high load.
+- Cloud infrastructure should be used to scale resources.
