@@ -7,3 +7,13 @@ Requiremnts:
 - Only authorised users can access certain data.
 - All personal data must be stored securely.
 - The system should prevent unauthorised access.
+
+Performance
+
+The system must respond quickly to users and handle many requests efficiently.
+
+Requirements:
+- The system should load pages within 2 seconds.
+- The system should support multiple users at the same time.
+- Event search results should be displayed quickly.
+- Notifications should be sent in real-time.
